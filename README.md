@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+![Project Screenshot](https://i.ibb.co/mVMDJHDz/Screenshot-2025-09-14-at-3-20-27-PM.png)
+
+# Welcome to ThinkFlow
 
 ## Project info
 
